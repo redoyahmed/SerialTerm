@@ -1,0 +1,24 @@
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\bin\Debug\DAV Suit.exe.config
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\bin\Debug\DAV Suit.exe
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\bin\Debug\DAV Suit.pdb
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV Suit.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV_Suit.Form1.resources
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV_Suit.Properties.Resources.resources
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV Suit.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV Suit.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV Suit.exe
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV Suit.pdb
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV_Suit.emsControl.resources
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV_Suit.hcControl.resources
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV_Suit.terminal.resources
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\DAV Suit\obj\Debug\DAV_Suit.tintoControl.resources
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\bin\Debug\DAV Suit.exe.config
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\bin\Debug\DAV Suit.exe
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\bin\Debug\DAV Suit.pdb
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\obj\Debug\DAV Suit.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\obj\Debug\DAV_Suit.Form1.resources
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\obj\Debug\DAV_Suit.Properties.Resources.resources
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\obj\Debug\DAV Suit.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\obj\Debug\DAV Suit.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\obj\Debug\DAV Suit.exe
+C:\Users\utente\Desktop\DAV\WORKSPACES\Visual Studio\SerialTerm\obj\Debug\DAV Suit.pdb
